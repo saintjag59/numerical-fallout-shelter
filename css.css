@@ -1,0 +1,8 @@
+body {background-color: blue;}
+main {width: 700px; margin: auto; background-color: green; border: 3px solid #73AD21; padding: 20px;}
+header img {display: block; margin: auto;}
+h1{color:blue;}
+h2{color:red;}
+.img-circle {
+    border-radius: 50%;
+}
